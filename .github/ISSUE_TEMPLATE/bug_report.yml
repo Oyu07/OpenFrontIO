@@ -12,7 +12,7 @@ body:
   - type: textarea
     attributes:
       label: "Steps to Reproduce"
-      placeholder:
+      placeholder: |
         "1. Go to '...'
         2. Click on '....'
         3. Scroll down to '....'
